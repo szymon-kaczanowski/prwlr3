@@ -1,0 +1,9 @@
+	gene name	Aeropyrum pernix	Agrobacterium fabrum	Arabidopsis thaliana	Bacillus subtilis	Caenorhabditis elegans	Chlamydia felis	Dictyostelium discoideum	Drosophila melanogaster	Escherichia coli	Homo sapiens	Plasmodium falciparum	Staphylococcus aureus	Sulfolobus islandicus	Tetrahymena thermophila	Trypanosoma cruzi	Volvox carteri
+0	YML120C			ath:AT4G05020 ath:AT2G20800 ath:AT1G07180 ath:AT2G29990 ath:AT4G28220 ath:AT4G21490				ddi:DDB_G0271532 ddi:DDB_G0295661 ddi:DDB_G0290197 ddi:DDB_G0270104									vcn:VOLCADRAFT_63330 vcn:VOLCADRAFT_76599 vcn:VOLCADRAFT_105834 vcn:VOLCADRAFT_63040
+0	YNR074C			ath:AT5G22140 ath:AT3G44190				ddi:DDB_G0285005 ddi:DDB_G0286241			hsa:84883				tet:TTHERM_000066939 tet:TTHERM_00066940		vcn:VOLCADRAFT_96658
+0	YAL039C					cel:CELE_T06D8.6		ddi:DDB_G0275895	dme:Dmel_CG6022		hsa:3052	pfa:PF3D7_1203600 pfa:PF3D7_1224600					vcn:VOLCADRAFT_75232 vcn:VOLCADRAFT_105944
+0	YOR197W			ath:AT5G64240 ath:AT1G02170 ath:AT4G25110													vcn:VOLCADRAFT_57503
+0	YNL123W			ath:AT3G03380													vcn:VOLCADRAFT_79278
+0	YJL208C					cel:CELE_C41D11.8 cel:BcellWH2_02514			dme:Dmel_CG8862 dme:Dmel_CG32463 dme:Dmel_CG31679 dme:Dmel_CG31682		hsa:2021					tcr:507623.140 tcr:506867.10	vcn:VOLCADRAFT_107604 vcn:VOLCADRAFT_98345 vcn:VOLCADRAFT_107611
+0	CPP32B										hsa:836						
+0	AT1G02410		atu:Atu0770	ath:AT1G02410		cel:CELE_JC8.5		ddi:DDB_G0289353	dme:Dmel_CG31648		hsa:1353	pfa:PF3D7_1475300			tet:TTHERM_00637410	tcr:510943.130 tcr:504867.70	vcn:VOLCADRAFT_80232

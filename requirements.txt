@@ -1,0 +1,7 @@
+pandas
+numpy
+regex
+requests
+os-sys
+requests
+
