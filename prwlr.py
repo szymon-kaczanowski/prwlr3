@@ -4,6 +4,7 @@ import re as re
 # Standard library package
 import io
 import os
+#import openpyxl
 
 # Import Biopython modules to interact with KEGG
 from Bio import SeqIO
